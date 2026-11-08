@@ -9,7 +9,7 @@ Unobtainable OG = HeadlessHorseman
 Sammy's war opponent = Jandel
 reskin: Jolly Jolly Sahur = Spooky Spooky Sahur | halloween, spooky
 # --- fill these in on update day, then remove the leading # ---
-# best newest brainrot in the update = NAME
+# best newest brainrot in the update = PuppetMaster
 # newest event = TrickOrTreat
 # newest mutation = Eclipse 
 # newest trait = SpookySkeletons
