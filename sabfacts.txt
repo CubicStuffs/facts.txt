@@ -11,7 +11,7 @@ reskin: Jolly Jolly Sahur = Spooky Spooky Sahur | halloween, spooky
 # --- fill these in on update day, then remove the leading # ---
 # newest brainrot in the update = NAME
 # newest event = NAME
-# newest mutation = NAME
+# newest mutation = Eclipse 
 # newest trait = NAME
 # reskin: ORIGINAL = RESKIN | theme
 
