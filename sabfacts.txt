@@ -14,5 +14,250 @@ reskin: Jolly Jolly Sahur = Spooky Spooky Sahur | halloween, spooky
 # newest mutation = Eclipse 
 # newest trait = SpookySkeletons
 # reskin: ORIGINAL = RESKIN | theme
+# ============================================================
+# SAB RIDDLE FACTS — v2026-10-15
+# Source: RiddleDatabase (generated 2026-10-15)
+# Style: fact = value (AI-trainable, not offline lookup)
+# ============================================================
 
+# ---------- COUNTS ----------
+1 of 1 brainrots exist = 155
+count of 1 of 1 brainrots = 155
+strawberry elephants exist = 2348
+diamond strawberry elephants exist = 263
+crystal strawberry elephants exist = 1
 
+# ---------- FIRST THINGS ----------
+first brainrot = NoobiniPizzanini
+first brainrot god = TralaleroTralala
+first god added = TralaleroTralala
+first secret brainrot = LavaCasaSaturnoSaturnita
+first secret in sab = LavaCasaSaturnoSaturnita
+first removed brainrot = TungTungTungSahur
+first reworked brainrot = SammyNiSpyderini
+first snake brainrot = HydraSerpent
+first taco brainrot = TipiTopiTaco
+first taco merchant = SammyNiTruckini
+first bee brainrot = BeeLoco
+first machine added = RainbowMachine
+first fuse machine = LaFuseMachine
+first weapon in game = Bat
+first item in game = Bat
+first gear in game = Bat
+first lucky block = July 12, 2025
+first lucky block day = 12
+first lucky block month = july
+first lucky block year = 2025
+first craft machine = September 6, 2025
+first craft machine day = 6
+first craft machine month = september
+first craft machine year = 2025
+first ritual = Comet
+co founder of sab = Dosmall
+first game sammy played = CrabGame
+
+# ---------- FUSE / CRAFT / ADMIN MACHINES (dates) ----------
+first fuse = LaFuseMachine
+first fuse date = August 1, 2025
+first fuse day = 1
+first fuse month = august
+first fuse year = 2025
+second fuse = WitchFuse
+second fuse date = October 11, 2025
+second fuse day = 11
+second fuse month = october
+second fuse year = 2025
+third fuse = SantaFuse
+third fuse date = December 6, 2025
+third fuse day = 6
+third fuse month = december
+third fuse year = 2025
+fourth fuse = DivineFuse
+fourth fuse date = March 7, 2026
+fourth fuse day = 7
+fourth fuse month = march
+fourth fuse year = 2026
+fifth fuse = SummerFuse
+fifth fuse date = May 23, 2026
+fifth fuse day = 23
+fifth fuse month = may
+fifth fuse year = 2026
+CyberCraft date = April 18, 2026
+CyberCraft day = 18
+CyberCraft month = april
+CyberCraft year = 2026
+Cyber Admin date = April 25, 2026
+Divine Admin date = February 28, 2026
+Cupid Fuse date = February 7, 2026
+Admin Machine date = November 29, 2025
+Egg Incubator date = April 4, 2026
+Duels Machine date = January 10, 2026
+Fuse Machine Return date = January 24, 2026
+coming fuse machine = HauntedFuse
+
+# ---------- BRAINROT RELEASE DATES ----------
+Bloodrot mutation date = June 7, 2025
+Bloodrot day = 7
+Bloodrot month = june
+Bloodrot year = 2025
+Galaxy mutation date = August 23, 2025
+Galaxy day = 23
+Galaxy month = august
+Galaxy year = 2025
+Candy mutation date = July 5, 2025
+Candy day = 5
+Candy month = july
+Candy year = 2025
+Cursed mutation date = January 3, 2026
+Cursed day = 3
+Cursed month = january
+Cursed year = 2026
+Cyber mutation date = April 18, 2026
+Divine mutation date = February 21, 2026
+Crystal mutation date = July 25, 2026
+Bull trait date = July 25, 2026
+Chocolate trait date = February 2026
+Bunny Ears trait date = April 2026
+Blue Egg trait date = April 2026
+Divine Halo trait date = February 2026
+
+# ---------- TRAITS (event) ----------
+admin abuse war trait = Sleepy
+admin abuse trait = Sleepy
+1 year event trait = 1year
+1 year event trait date = May 2026
+1 year event trait month = may
+1 year event trait year = 2026
+10 billion visits trait = 10b
+10 billion visits trait date = June 2025
+10 billion visits trait month = june
+10 billion visits trait year = 2025
+2026 trait = 2026
+2026 trait date = December 2025
+2026 trait month = december
+2026 trait year = 2025
+fourth of july trait = Firework
+fourth of july trait date = July 4, 2025
+fourth of july trait day = 4
+fourth of july trait month = july
+fourth of july trait year = 2025
+Asteroid trait = CometStruck
+Asteroid trait date = June 28, 2025
+Asteroid trait day = 28
+Asteroid trait month = june
+Asteroid trait year = 2025
+Bombardiro trait = Bombardiro
+Bombardiro trait date = June 2025
+Bruno Mars concert trait = Concert
+Bruno Mars concert trait date = January 17, 2026
+Bruno Mars concert trait day = 17
+Bubblegum trait = Bubblegum
+Bubblegum trait date = July 18, 2025
+Bubblegum trait day = 18
+Crab Rave trait = CrabRave
+Crab Rave trait date = June 2025
+Extinct trait = Extinct
+Extinct trait date = September 13, 2025
+Extinct trait day = 13
+Fire trait = Fire
+Fire trait date = June 2025
+Firework trait = Firework
+Firework trait date = July 4, 2025
+
+# ---------- BRAINROT COLORS ----------
+color of Antonio = Green
+color of Arcadragon = Red
+color of Capitano Moby = Blue
+color of Celestial Pegasus = Purple
+color of Digi Narwhal = Blue
+color of Draculino = Black
+color of Dragon Aquanini = Blue
+color of Dragon Cannelloni = Yellow
+color of Dragon Gingerini = Brown
+color of Elefanto Frigo = Gray
+color of Garama and Madundung = Gray
+color of Griffin = White
+color of Headless Horseman = Black
+color of Hydra Bunny = White
+color of Hydra Serpent = Green
+color of Kraken = Red
+color of Love Love Bear = Red
+color of Orchidox = Purple
+color of Pancake and Syrup = Orange
+color of Pig = Pink
+color of Signore Carapace = White
+color of Signore Carapace suit = Blue
+color of Skibidi Toilet = White
+color of Cerberus = Red
+color of Spyder Elephant = Gray
+color of Meowl = White
+
+# ---------- SAMMY PERSONAL (new) ----------
+sammy dog name = Rocky
+sammy favorite game = Fortnite
+sammy favorite phone = iPhone
+sammy favorite artist = Drake
+sammy favorite singer = Drake
+sammy favorite fortnite obby = RobaBankObby
+sammy favorite mutation = Galaxy
+sammy co founder = Dosmall
+sammy began making games on roblox = 2013
+sammy body skin color = Yellow
+sammy first game played = CrabGame
+sammy competitive game = Valorant
+sammy game hates = GrowAGarden
+sammy game loves = Fortnite
+sammy enemy = Jandel
+sammy second name = Brakta
+sammy full first name = Samuel
+
+# ---------- BRAINROT RANKINGS ----------
+best brainrot = LupaAndLipa
+second best brainrot = StrawberryElephant
+best brainrot except spyder elephant = StrawberryElephant
+best brainrot reskin of sammy = SammyNiTruckini
+best reskin = SammyNiTruckini
+best fuse brainrot = Griffin
+best mutation overall = Crystal
+best visual mutation for Meowl = Cyber
+best visual mutation for favorite brainrot = Cyber
+best taco merchant = SammyNiTruckini
+second taco merchant = Nachorilla
+third taco merchant = TacoTurboTacoRito
+fourth taco merchant = BurritoBat
+best taco brainrot = LaTacoCombinasion
+best egg in game = DragonEgg
+best egg in LTM = DragonEgg
+best egg in previous LTM = HydraBunnyEgg
+expensive brainrot = SpyderElephant
+cheapest brainrot = NoobiniPizzanini
+cheapest taco merchant = BurritoBat
+
+# ---------- RESKINS / SECRETS ----------
+brainrot for money ritual = MoneyMoneyPuggy
+brainrot reward from money ritual = LosPuggies
+brainrot from cave island = Draculino
+brainrot from money ritual = LosPuggies
+from what egg can you get Dragon Cannelloni = DragonEgg
+from what island can you obtain Draculino = CaveIsland
+
+# ---------- REMOVED / REWORKED BRAINROTS ----------
+first brainrot deleted = TungTungTungSahur
+second brainrot deleted = CrocidiloPenisini
+both brainrots removed = TungTungTungSahurCrocidiloPenisini
+first brainrot reworked = SammyNiSpyderini
+second brainrot reworked = UnclitoSamito
+third brainrot reworked = GattaTinonyanino
+all brainrots reworked = SammyNiSpyderiniUnclitoSamitoGattaTinonyanino
+
+# ---------- MISC FACTS ----------
+current ritual = money
+current season = autumn
+LaFuseMachine income = 95m/sec
+earliest game year = 2013
+SAB game launched = May 16, 2025
+SAB game launched day = 16
+SAB game launched month = may
+SAB game launched year = 2025
+1speedkeyboardescape comparison = GrowAGarden is better
+Loki comparison = Jandel is better
