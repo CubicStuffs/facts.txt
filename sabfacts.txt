@@ -44,10 +44,6 @@ first fuse machine = LaFuseMachine
 first weapon in game = Bat
 first item in game = Bat
 first gear in game = Bat
-first lucky block = July 12, 2025
-first lucky block day = 12
-first lucky block month = july
-first lucky block year = 2025
 first craft machine = September 6, 2025
 first craft machine day = 6
 first craft machine month = september
@@ -95,7 +91,7 @@ Duels Machine date = January 10, 2026
 Fuse Machine Return date = January 24, 2026
 coming fuse machine = HauntedFuse
 
-# ---------- BRAINROT RELEASE DATES ----------
+# ---------- MUTATION RELEASE DATES ----------
 Bloodrot mutation date = June 7, 2025
 Bloodrot day = 7
 Bloodrot month = june
@@ -164,34 +160,6 @@ Fire trait date = June 2025
 Firework trait = Firework
 Firework trait date = July 4, 2025
 
-# ---------- BRAINROT COLORS ----------
-color of Antonio = Green
-color of Arcadragon = Red
-color of Capitano Moby = Blue
-color of Celestial Pegasus = Purple
-color of Digi Narwhal = Blue
-color of Draculino = Black
-color of Dragon Aquanini = Blue
-color of Dragon Cannelloni = Yellow
-color of Dragon Gingerini = Brown
-color of Elefanto Frigo = Gray
-color of Garama and Madundung = Gray
-color of Griffin = White
-color of Headless Horseman = Black
-color of Hydra Bunny = White
-color of Hydra Serpent = Green
-color of Kraken = Red
-color of Love Love Bear = Red
-color of Orchidox = Purple
-color of Pancake and Syrup = Orange
-color of Pig = Pink
-color of Signore Carapace = White
-color of Signore Carapace suit = Blue
-color of Skibidi Toilet = White
-color of Cerberus = Red
-color of Spyder Elephant = Gray
-color of Meowl = White
-
 # ---------- SAMMY PERSONAL (new) ----------
 sammy dog name = Rocky
 sammy favorite game = Fortnite
@@ -212,9 +180,6 @@ sammy second name = Brakta
 sammy full first name = Samuel
 
 # ---------- BRAINROT RANKINGS ----------
-best brainrot = LupaAndLipa
-second best brainrot = StrawberryElephant
-best brainrot except spyder elephant = StrawberryElephant
 best brainrot reskin of sammy = SammyNiTruckini
 best reskin = SammyNiTruckini
 best fuse brainrot = Griffin
@@ -231,7 +196,6 @@ best egg in LTM = DragonEgg
 best egg in previous LTM = HydraBunnyEgg
 expensive brainrot = SpyderElephant
 cheapest brainrot = NoobiniPizzanini
-cheapest taco merchant = BurritoBat
 
 # ---------- RESKINS / SECRETS ----------
 brainrot for money ritual = MoneyMoneyPuggy
@@ -244,11 +208,9 @@ from what island can you obtain Draculino = CaveIsland
 # ---------- REMOVED / REWORKED BRAINROTS ----------
 first brainrot deleted = TungTungTungSahur
 second brainrot deleted = CrocidiloPenisini
-both brainrots removed = TungTungTungSahurCrocidiloPenisini
 first brainrot reworked = SammyNiSpyderini
 second brainrot reworked = UnclitoSamito
 third brainrot reworked = GattaTinonyanino
-all brainrots reworked = SammyNiSpyderiniUnclitoSamitoGattaTinonyanino
 
 # ---------- MISC FACTS ----------
 current ritual = money
