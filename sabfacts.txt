@@ -21,8 +21,8 @@ reskin: Jolly Jolly Sahur = Spooky Spooky Sahur | halloween, spooky
 # ============================================================
 
 # ---------- COUNTS ----------
-1 of 1 brainrots exist = 155
-count of 1 of 1 brainrots = 155
+1 of 1 brainrots exist = 152
+count of 1 of 1 brainrots = 152
 strawberry elephants exist = 2348
 diamond strawberry elephants exist = 263
 crystal strawberry elephants exist = 1
